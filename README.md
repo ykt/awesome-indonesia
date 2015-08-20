@@ -1,13 +1,13 @@
 # Awesome Indonesia - code4nation
 
-Koleksi daftar website yang berguna.
+Koleksi daftar website yang berguna dari Indonesia.
 
-* [Awesome JavaScript](#awesome-javascrip)
-  * 	[Website Kawalan](#kawalan)
-* [Contributing](#contributing)
+Jika ingin mengkontribusi, silahkan dulu baca [di sini](
+https://github.com/ykt/awesome-indonesia/blob/master/CContributing.md).
 
+* [Website Kawalan](##Website Kawalan)
+* [Lisensi](##Lisensi)
 ----
-
 
 ## Website Kawalan
 
@@ -15,4 +15,6 @@ Koleksi daftar website yang berguna.
 
 * [Pemilu](http://www.kawalpemilu.org) - mengawal pemilu langsung Indonesia.
 
-Ingin mengkontribusi, silahkan baca [ini](www.code4nations.com) dulu
+## License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
