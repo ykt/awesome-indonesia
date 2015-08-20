@@ -2,11 +2,9 @@
 
 Koleksi daftar website yang berguna dari Indonesia.
 
-Jika ingin mengkontribusi, silahkan dulu baca [di sini](
-https://github.com/ykt/awesome-indonesia/blob/master/CContributing.md).
+Jika ingin mengkontribusi, silahkan dulu baca [petunjuk kontribusi](
+CONTRIBUTING.md).
 
-* [Website Kawalan](##Website Kawalan)
-* [Lisensi](##Lisensi)
 ----
 
 ## Website Kawalan
